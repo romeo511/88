@@ -1132,15 +1132,7 @@
 					height: 4.5em;
 				}
 
-				&:before {
-					width: 45px;
-					height: 33px;
-					top: -2.25em;
-					margin-left: -22.5px;
-					margin-top: -16.5px;
-					background-size: 45px 33px;
-				}
-
+		
 				&.style1 {
 					padding: 0;
 					text-align: center;
@@ -1205,16 +1197,7 @@
 						height: 4.5em;
 					}
 
-					&:before {
-						width: 45px;
-						height: 33px;
-						bottom: -2.25em;
-						margin-left: -22.5px;
-						margin-bottom: -16.5px;
-						background-size: 45px 33px;
-					}
-				}
-			}
+						}
 
 		/* Banner */
 			#banner {
